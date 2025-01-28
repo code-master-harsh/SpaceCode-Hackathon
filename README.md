@@ -1,3 +1,11 @@
+# Introduction
+
+This project was developed as part of **SpaceCode Challenge 2025**, a two-day hackathon hosted by the **Space Technology and Astronomy Cell (STAC)**, IIT Mandi. The competition challenged participants to solve computational and theoretical problems in the domain of astrophysics, including exoplanet analysis, orbital mechanics, and pulsar classification. 
+
+Our team, **Blue Explorers**, consisting of [Harsh Vardhan Sharma](https://github.com/code-master-harsh/), [Akshat Jha](https://github.com/AkshatJha0411/), and [Bhavya Sunkari](https://github.com/Bhavya445), collaborated to tackle these problems with innovative approaches and efficient coding techniques. Through this journey, we explored the realms of computational astronomy, developed new insights, and applied advanced algorithms to complex astronomical datasets.
+
+We hope you enjoy diving into our solutions as much as we enjoyed building them!
+
 # **Problem 01: Analysis of Exoplanets Based on Orbital Time Period** 
 ### **Approach to Dataset and Histogram Generation** 
 1. **Data Collection**: 
